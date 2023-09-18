@@ -7,5 +7,5 @@ int main()
     cin>>a>>b;
     c = a + b;
     cout<<"Sum of two number is: "<<c<<endl;
-    
+    return 0;
 }
